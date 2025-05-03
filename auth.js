@@ -3,13 +3,12 @@
 // Your web app's Firebase configuration
 // **IMPORTANT:** Get this EXACT snippet from your Firebase Project Settings > Your Apps > Select your web app > Firebase SDK snippet (Config)
 const firebaseConfig = {
-    apiKey: "<YOUR_API_KEY>", // Replace with your API Key
-    authDomain: "homebound-scholars-university.firebaseapp.com", // This looks familiar! 😉
-    projectId: "homebound-scholars-university",
-    storageBucket: "<YOUR_STORAGE_BUCKET>", // Replace with your Storage Bucket
-    messagingSenderId: "<YOUR_MESSAGING_SENDER_ID>", // Replace with your Messaging Sender ID
-    appId: "<YOUR_APP_ID>", // Replace with your App ID
-    // measurementId: "<YOUR_MEASUREMENT_ID>" // Uncomment if you're using Analytics
+  apiKey: "AIzaSyDKEm99q1_0vrVBwY3v52FqS3M1JYK3PA0",
+  authDomain: "homebound-scholars-university.firebaseapp.com",
+  projectId: "homebound-scholars-university",
+  storageBucket: "homebound-scholars-university.firebasestorage.app",
+  messagingSenderId: "330559202195",
+  appId: "1:330559202195:web:d88f8e1a40e460c67efe66"
 };
 
 // Initialize Firebase
