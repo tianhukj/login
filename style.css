@@ -1,0 +1,11 @@
+/* style.css */
+
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+#auth-container {
+    margin-top: 30px;
+    border
